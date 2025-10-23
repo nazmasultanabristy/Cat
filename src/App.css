@@ -28,14 +28,6 @@ img{
       common css end
 ========================== */
 
-#main_menu{
-    height: 72px;
-    width: 100%;
-    position: absolute;
-    z-index: 999;
-    left: 0;
-    padding-top: 20px;
-}
-.menu_row{
-    display: flex;
+* {
+  margin: 10px;
 }
